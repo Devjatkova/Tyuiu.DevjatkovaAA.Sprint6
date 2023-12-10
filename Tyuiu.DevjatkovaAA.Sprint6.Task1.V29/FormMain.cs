@@ -55,7 +55,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint6.Task1.V29
 
         private void buttonInfo_DAA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск выполнила студентка группы АСОиУб-23-3 Девяткова Анастасия Александровна", "Сообщение");
+            MessageBox.Show("Таск 1 выполнила студентка группы АСОиУб-23-3 Девяткова Анастасия Александровна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
