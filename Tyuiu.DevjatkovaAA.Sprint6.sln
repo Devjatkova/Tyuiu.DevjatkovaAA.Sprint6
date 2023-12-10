@@ -51,6 +51,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DevjatkovaAA.Sprint6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DevjatkovaAA.Sprint6.Task5.V25.Test", "Tyuiu.DevjatkovaAA.Sprint6.Task5.V25.Test\Tyuiu.DevjatkovaAA.Sprint6.Task5.V25.Test.csproj", "{5451D0D4-A307-46C1-A5B0-A125AE6F4AE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder5", "NewFolder5", "{47842798-22DF-471D-8AB5-19C734A07DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5", "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5\Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.csproj", "{FE52D0DE-7994-4E30-92BA-BDC040194850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Lib", "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Lib\Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Lib.csproj", "{CCF56442-86E5-42EF-90AE-9A948EAB55CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Test", "Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Test\Tyuiu.DevjatkovaAA.Sprint6.Task6.V5.Test.csproj", "{E2B2F327-623D-42EB-B74E-7B3A4284C0ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +137,18 @@ Global
 		{5451D0D4-A307-46C1-A5B0-A125AE6F4AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5451D0D4-A307-46C1-A5B0-A125AE6F4AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5451D0D4-A307-46C1-A5B0-A125AE6F4AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE52D0DE-7994-4E30-92BA-BDC040194850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE52D0DE-7994-4E30-92BA-BDC040194850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE52D0DE-7994-4E30-92BA-BDC040194850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE52D0DE-7994-4E30-92BA-BDC040194850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF56442-86E5-42EF-90AE-9A948EAB55CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF56442-86E5-42EF-90AE-9A948EAB55CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF56442-86E5-42EF-90AE-9A948EAB55CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF56442-86E5-42EF-90AE-9A948EAB55CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B2F327-623D-42EB-B74E-7B3A4284C0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B2F327-623D-42EB-B74E-7B3A4284C0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B2F327-623D-42EB-B74E-7B3A4284C0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B2F327-623D-42EB-B74E-7B3A4284C0ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +172,9 @@ Global
 		{3B276D53-02F4-4125-9321-5130F8723914} = {37106636-6E75-44C7-872F-621CF815EC79}
 		{99D54C1D-C3A0-4959-84F8-8AF107151A82} = {37106636-6E75-44C7-872F-621CF815EC79}
 		{5451D0D4-A307-46C1-A5B0-A125AE6F4AE0} = {37106636-6E75-44C7-872F-621CF815EC79}
+		{FE52D0DE-7994-4E30-92BA-BDC040194850} = {47842798-22DF-471D-8AB5-19C734A07DA9}
+		{CCF56442-86E5-42EF-90AE-9A948EAB55CA} = {47842798-22DF-471D-8AB5-19C734A07DA9}
+		{E2B2F327-623D-42EB-B74E-7B3A4284C0ED} = {47842798-22DF-471D-8AB5-19C734A07DA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F04A583D-60E9-4EF5-B310-7AFAE28CD97F}
