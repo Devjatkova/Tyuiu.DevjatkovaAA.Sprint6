@@ -70,7 +70,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint6.Task2.V15
 
         private void buttonHelp_DAA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск выполнила студентка группы АСОиУб-23-3 Девяткова Анастасия Александровна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information); ;
+            MessageBox.Show("Таск 2 выполнила студентка группы АСОиУб-23-3 Девяткова Анастасия Александровна", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
