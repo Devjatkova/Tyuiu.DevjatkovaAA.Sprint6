@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.DevjatkovaAA.Sprint6.Test7.V4
+namespace Tyuiu.DevjatkovaAA.Sprint6.Task7.V4
 {
     public partial class FormAbout : Form
     {
         public FormAbout()
         {
             InitializeComponent();
+        }
+
+        private void buttonOk_DAA_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

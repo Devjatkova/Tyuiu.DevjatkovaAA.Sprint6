@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Tyuiu.DevjatkovaAA.Sprint6.Test7.V4.Properties
+namespace Tyuiu.DevjatkovaAA.Sprint6.Task7.V4.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace Tyuiu.DevjatkovaAA.Sprint6.Test7.V4.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.DevjatkovaAA.Sprint6.Test7.V4.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Tyuiu.DevjatkovaAA.Sprint6.Task7.V4.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

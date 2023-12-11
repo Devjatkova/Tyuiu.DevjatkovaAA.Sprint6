@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace Tyuiu.DevjatkovaAA.Sprint6.Test7.V4.Properties
+namespace Tyuiu.DevjatkovaAA.Sprint6.Task7.V4.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

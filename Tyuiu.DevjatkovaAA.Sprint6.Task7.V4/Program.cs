@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tyuiu.DevjatkovaAA.Sprint6.Test7.V4
+namespace Tyuiu.DevjatkovaAA.Sprint6.Task7.V4
 {
     static class Program
     {
